@@ -9,12 +9,16 @@ Tema: pruebas-automatizadas
 
 ## 📚 Idea/Concepto 
 
-
+Pruebas que validan de forma aislada la unidad más pequeña de código (función, método o clase) para asegurar que funciona correctamente.
 ## 📌 Puntos Claves (Opcional)
-- 
+-  Se ejecutan automáticamente
+- Son rápidas
+- Detectan errores tempranos
+- Facilitan Refactorización
 
 ## 🔗 Connections
 - [[Estándares de Programación]]
+- [[Definition of Done (DoD)]]
 
 ## 💡 Personal Insight (Opcional)
 - 

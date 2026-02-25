@@ -8,12 +8,16 @@ Tema:
 
 ## 📚 Idea/Concepto 
 
-
+Metodología para diseñar interfaces dividiéndolas en componentes jerárquicos: átomos, moléculas, organismos, plantillas y páginas.
 ## 📌 Puntos Claves (Opcional)
-- 
+- Promueve reutilización
+- Coherencia visual 
+- Diseño escalable.
 
 ## 🔗 Connections
-- [[ ]]
+- [[Requerimientos Funcionales]]
+- [[User Story]]
+- [[Estándares de Programación]]
 
 ## 💡 Personal Insight (Opcional)
 - 

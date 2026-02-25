@@ -9,12 +9,19 @@ Tema: control-ciclo-vida-producto
 
 ## 📚 Idea/Concepto 
 
-
+Plataforma de Microsoft que ofrece herramientas para gestión de proyectos, repositorios, pipelines de integración y despliegue continuo.
 ## 📌 Puntos Claves (Opcional)
-- 
+- Soporta Scrum/Kanban
+- CI/CD automatizado
+- Control de versiones.
 
 ## 🔗 Connections
 - [[Scrum]]
+- [[Product Backlog]]
+- [[Sprint Planning]]
+- [[Integración Continua (CI)]]
+- [[Despliegue Continuo (CD)]]
+- [[Control de Versiones]]
 
 ## 💡 Personal Insight (Opcional)
 - 
