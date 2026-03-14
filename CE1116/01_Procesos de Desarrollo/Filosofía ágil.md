@@ -16,7 +16,7 @@ Conjunto de valores y principios (manifiesto ágil) que prioriza entrega tempran
 - Trabajo en Equipo
 
 ## 🔗 Connections
-- [[ ]]
+- [[Scrum]]
 
 ## 💡 Personal Insight (Opcional)
 - 
