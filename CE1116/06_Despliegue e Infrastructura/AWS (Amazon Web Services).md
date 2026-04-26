@@ -21,6 +21,9 @@ Plataforma de servicios en la nube que proporciona infraestructura, almacenamien
 - [[Despliegue Continuo (CD)]]
 - [[Monitoreo de Aplicación]]
 - [[Docker]]
+- [[Cloud Público]]
+-  [[Cloud Híbrido]]
+- [[IaaS vs PaaS vs SaaS]]
 
 ## 💡 Personal Insight (Opcional)
 - 

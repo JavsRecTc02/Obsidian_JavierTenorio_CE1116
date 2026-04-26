@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "81cf7a9ee9b12278",
+        "id": "517d2776f427d9af",
         "type": "tabs",
         "children": [
           {
-            "id": "16ed61f6494c5fef",
+            "id": "21a7d2e8c674a5c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inteligencia Artificial/Alucinaciones.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Alucinaciones"
-            }
-          },
-          {
-            "id": "1a80e0c1fe06145f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CE1116/00_Inbox/Retrieval-Augmented Generation (RAG).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Retrieval-Augmented Generation (RAG)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,35 +166,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1a80e0c1fe06145f",
+  "active": "21a7d2e8c674a5c2",
   "lastOpenFiles": [
-    "Inteligencia Artificial/Prompt.md",
-    "CE1116/00_Inbox/Retrieval-Augmented Generation (RAG).md",
-    "Inteligencia Artificial/Fine-Tuning.md",
-    "Inteligencia Artificial/Loss Function.md",
-    "Inteligencia Artificial/Descenso de Gradiente.md",
-    "Inteligencia Artificial/Backpropagation.md",
-    "Inteligencia Artificial/Alucinaciones.md",
-    "Inteligencia Artificial/Arquitectura Transformer.md",
-    "Inteligencia Artificial/Embeddings.md",
-    "Inteligencia Artificial/Función de Activación.md",
-    "Inteligencia Artificial/Mecanismo de Atención.md",
-    "Inteligencia Artificial/Redes Neuronales.md",
-    "Inteligencia Artificial/Tokenización.md",
-    "Inteligencia Artificial/Ventana de Contexto.md",
-    "CE1116/02_Requirimientos/User Story.md",
-    "README.md",
-    "Inteligencia Artificial",
-    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
-    "CE1116/02_Requirimientos/Requerimientos Funcionales.md",
-    "CE1116/02_Requirimientos/Requerimientos de Negocio.md",
-    "CE1116/02_Requirimientos/Entrevistas.md",
-    "CE1116/01_Procesos de Desarrollo/Velocity.md",
-    "CE1116/01_Procesos de Desarrollo/Story Points.md",
+    "CE1116/06_Despliegue e Infrastructura/AWS (Amazon Web Services).md",
+    "CE1116/10_Cloud Computing/IaaS vs PaaS vs SaaS.md",
+    "CE1116/06_Despliegue e Infrastructura/Docker.md",
+    "CE1116/06_Despliegue e Infrastructura/Azure DevOps.md",
+    "CE1116/10_Cloud Computing/Cloud Híbrido.md",
+    "CE1116/10_Cloud Computing/Cloud Público.md",
+    "CE1116/10_Cloud Computing/Escalamiento Horizontal y Vertical.md",
+    "CE1116/10_Cloud Computing/Redundancia Geo-redundante en el Cloud.md",
+    "CE1116/10_Cloud Computing/Redundancia Local en el Cloud.md",
+    "CE1116/10_Cloud Computing/Redundancia Zonal en el Cloud.md",
+    "CE1116/10_Cloud Computing/Virtual Private Cloud (VPC).md",
+    "Redundancia en el Cloud.md",
     "CE1116/01_Procesos de Desarrollo/Control de Versiones.md",
-    "CE1116/01_Procesos de Desarrollo/Definition of Done (DoD).md",
-    "CE1116/01_Procesos de Desarrollo/Filosofía ágil.md",
-    "CE1116/08_Templates/Atomic Template.md",
+    "CE1116/09_Inteligencia Artificial/Retrieval-Augmented Generation (RAG).md",
+    "CE1116/09_Inteligencia Artificial/Alucinaciones.md",
+    "Sin título.md",
+    "CE1116/10_Cloud Computing",
+    "CE1116/09_Inteligencia Artificial/Prompt.md",
+    "CE1116/09_Inteligencia Artificial/Fine-Tuning.md",
+    "CE1116/09_Inteligencia Artificial/Loss Function.md",
+    "CE1116/09_Inteligencia Artificial/Descenso de Gradiente.md",
+    "CE1116/09_Inteligencia Artificial/Backpropagation.md",
+    "CE1116/09_Inteligencia Artificial/Arquitectura Transformer.md",
+    "CE1116/09_Inteligencia Artificial/Embeddings.md",
+    "CE1116/09_Inteligencia Artificial/Función de Activación.md",
+    "CE1116/09_Inteligencia Artificial/Mecanismo de Atención.md",
+    "CE1116/09_Inteligencia Artificial/Redes Neuronales.md",
+    "CE1116/09_Inteligencia Artificial",
     "Untitled.canvas",
     "CE1116/08_Templates",
     "CE1116/00_Inbox",
@@ -222,7 +204,6 @@
     "Untitled",
     "CE1116/06_Despliegue e Infrastructura",
     "CE1116/05_Pruebas",
-    "CE1116/04_Implementación",
-    "CE1116/03_Arquitectura y Diseño"
+    "CE1116/04_Implementación"
   ]
 }

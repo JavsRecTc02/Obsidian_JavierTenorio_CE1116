@@ -20,6 +20,8 @@ Plataforma que permite empaquetar aplicaciones y sus dependencias en contenedore
 - [[Despliegue Continuo (CD)]]
 - [[AWS (Amazon Web Services)]]
 - [[Azure DevOps]]
+- - [[Cloud Público]]
+-  [[Cloud Híbrido]]
 
 ## 💡 Personal Insight (Opcional)
 - 

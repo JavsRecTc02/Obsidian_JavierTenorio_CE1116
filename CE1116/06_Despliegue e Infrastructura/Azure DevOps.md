@@ -22,6 +22,8 @@ Plataforma de Microsoft que ofrece herramientas para gestión de proyectos, repo
 - [[Integración Continua (CI)]]
 - [[Despliegue Continuo (CD)]]
 - [[Control de Versiones]]
+- - [[Cloud Público]]
+-  [[Cloud Híbrido]]
 
 ## 💡 Personal Insight (Opcional)
 - 
